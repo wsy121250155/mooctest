@@ -1,0 +1,841 @@
+Part	2015-05-06-18-31-29	TestTriangle.java	opened
+Part	2015-05-06-18-31-29	TestTriangle.java	broughtToTop
+Part	2015-05-06-18-31-29	Package Explorer	deactivated
+CaretPosition	2015-05-06-18-31-29	TestTriangle.java	1
+Part	2015-05-06-18-31-30	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-31-32	TestTriangle.java	17
+CaretPosition	2015-05-06-18-31-35	TestTriangle.java	9
+CaretPosition	2015-05-06-18-31-37	TestTriangle.java	9
+CaretPosition	2015-05-06-18-31-38	TestTriangle.java	10
+CaretPosition	2015-05-06-18-31-52	TestTriangle.java	9
+Part	2015-05-06-18-31-53	TestTriangle.java	deactivated
+Part	2015-05-06-18-31-53	Package Explorer	activated
+Part	2015-05-06-18-31-55	Triangle.java	opened
+Part	2015-05-06-18-31-55	Triangle.java	broughtToTop
+Part	2015-05-06-18-31-56	Package Explorer	deactivated
+CaretPosition	2015-05-06-18-31-56	Triangle.java	1
+Part	2015-05-06-18-31-56	Triangle.java	activated
+CaretPosition	2015-05-06-18-31-57	Triangle.java	6
+CaretPosition	2015-05-06-18-31-58	Triangle.java	3
+CaretPosition	2015-05-06-18-32-01	Triangle.java	14
+CaretPosition	2015-05-06-18-32-02	Triangle.java	16
+CaretPosition	2015-05-06-18-32-08	Triangle.java	43
+CaretPosition	2015-05-06-18-32-11	Triangle.java	52
+CaretPosition	2015-05-06-18-32-14	Triangle.java	43
+CaretPosition	2015-05-06-18-32-15	Triangle.java	43
+Part	2015-05-06-18-32-25	Triangle.java	deactivated
+Part	2015-05-06-18-32-25	TestTriangle.java	broughtToTop
+CaretPosition	2015-05-06-18-32-25	TestTriangle.java	9
+Part	2015-05-06-18-32-25	TestTriangle.java	activated
+Part	2015-05-06-18-32-30	TestTriangle.java	deactivated
+Part	2015-05-06-18-32-30	Package Explorer	activated
+Part	2015-05-06-18-32-44	JUnit	opened
+Part	2015-05-06-18-32-44	Package Explorer	deactivated
+Part	2015-05-06-18-32-44	JUnit (TestTriangle)	broughtToTop
+Part	2015-05-06-18-32-44	JUnit (TestTriangle)	activated
+Part	2015-05-06-18-32-44	Console (No consoles to display at this time.)	opened
+Part	2015-05-06-18-32-50	JUnit (Finished after 0.047 seconds)	deactivated
+CaretPosition	2015-05-06-18-32-50	TestTriangle.java	9
+Part	2015-05-06-18-32-50	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-32-51	TestTriangle.java	10
+Part	2015-05-06-18-32-52	TestTriangle.java	deactivated
+Part	2015-05-06-18-32-52	JUnit (Finished after 0.047 seconds)	activated
+Part	2015-05-06-18-32-53	JUnit (Finished after 0.047 seconds)	deactivated
+CaretPosition	2015-05-06-18-32-53	TestTriangle.java	10
+Part	2015-05-06-18-32-53	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-32-57	TestTriangle.java	8
+Part	2015-05-06-18-32-58	TestTriangle.java	deactivated
+Part	2015-05-06-18-32-58	JUnit (Finished after 0.047 seconds)	activated
+Part	2015-05-06-18-33-01	JUnit (Finished after 0.047 seconds)	deactivated
+CaretPosition	2015-05-06-18-33-01	TestTriangle.java	8
+Part	2015-05-06-18-33-02	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-33-02	TestTriangle.java	53
+CaretPosition	2015-05-06-18-33-04	TestTriangle.java	52
+CaretPosition	2015-05-06-18-33-04	TestTriangle.java	53
+CaretPosition	2015-05-06-18-33-05	TestTriangle.java	52
+CaretPosition	2015-05-06-18-33-09	TestTriangle.java	53
+CaretPosition	2015-05-06-18-33-22	TestTriangle.java	17
+CaretPosition	2015-05-06-18-33-23	TestTriangle.java	23
+CaretPosition	2015-05-06-18-33-24	TestTriangle.java	22
+CaretPosition	2015-05-06-18-33-25	TestTriangle.java	28
+CaretPosition	2015-05-06-18-33-27	TestTriangle.java	29
+CaretPosition	2015-05-06-18-33-29	TestTriangle.java	34
+CaretPosition	2015-05-06-18-33-31	TestTriangle.java	39
+CaretPosition	2015-05-06-18-33-33	TestTriangle.java	45
+CaretPosition	2015-05-06-18-33-35	TestTriangle.java	51
+CaretPosition	2015-05-06-18-33-37	TestTriangle.java	51
+CaretPosition	2015-05-06-18-33-45	TestTriangle.java	53
+Part	2015-05-06-18-33-46	Triangle.java	broughtToTop
+Part	2015-05-06-18-33-46	TestTriangle.java	deactivated
+CaretPosition	2015-05-06-18-33-46	Triangle.java	43
+Part	2015-05-06-18-33-46	Triangle.java	activated
+CaretPosition	2015-05-06-18-33-47	Triangle.java	49
+CaretPosition	2015-05-06-18-33-48	Triangle.java	49
+CaretPosition	2015-05-06-18-33-49	Triangle.java	50
+CaretPosition	2015-05-06-18-33-52	Triangle.java	52
+CaretPosition	2015-05-06-18-33-53	Triangle.java	52
+CaretPosition	2015-05-06-18-33-54	Triangle.java	52
+CaretPosition	2015-05-06-18-33-55	Triangle.java	52
+CaretPosition	2015-05-06-18-33-56	Triangle.java	52
+CaretPosition	2015-05-06-18-33-59	Triangle.java	53
+CaretPosition	2015-05-06-18-34-01	Triangle.java	50
+CaretPosition	2015-05-06-18-34-03	Triangle.java	53
+CaretPosition	2015-05-06-18-34-03	Triangle.java	54
+CaretPosition	2015-05-06-18-34-04	Triangle.java	58
+CaretPosition	2015-05-06-18-34-05	Triangle.java	55
+CaretPosition	2015-05-06-18-34-06	Triangle.java	58
+CaretPosition	2015-05-06-18-34-13	Triangle.java	57
+CaretPosition	2015-05-06-18-34-14	Triangle.java	59
+CaretPosition	2015-05-06-18-34-17	Triangle.java	60
+CaretPosition	2015-05-06-18-34-18	Triangle.java	64
+CaretPosition	2015-05-06-18-34-19	Triangle.java	59
+CaretPosition	2015-05-06-18-34-20	Triangle.java	63
+CaretPosition	2015-05-06-18-34-21	Triangle.java	60
+CaretPosition	2015-05-06-18-34-23	Triangle.java	60
+CaretPosition	2015-05-06-18-34-25	Triangle.java	63
+CaretPosition	2015-05-06-18-34-26	Triangle.java	64
+CaretPosition	2015-05-06-18-34-27	Triangle.java	57
+CaretPosition	2015-05-06-18-34-28	Triangle.java	54
+CaretPosition	2015-05-06-18-34-30	Triangle.java	67
+CaretPosition	2015-05-06-18-34-31	Triangle.java	67
+CaretPosition	2015-05-06-18-34-32	Triangle.java	66
+CaretPosition	2015-05-06-18-34-34	Triangle.java	65
+CaretPosition	2015-05-06-18-34-35	Triangle.java	66
+Part	2015-05-06-18-34-36	Triangle.java	deactivated
+Part	2015-05-06-18-34-36	TestTriangle.java	broughtToTop
+CaretPosition	2015-05-06-18-34-36	TestTriangle.java	53
+CaretPosition	2015-05-06-18-34-37	TestTriangle.java	53
+Part	2015-05-06-18-34-37	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-34-40	TestTriangle.java	53
+CaretPosition	2015-05-06-18-34-41	TestTriangle.java	53
+CaretPosition	2015-05-06-18-34-42	TestTriangle.java	54
+Part	2015-05-06-18-34-43	TestTriangle.java	deactivated
+Part	2015-05-06-18-34-43	Triangle.java	broughtToTop
+CaretPosition	2015-05-06-18-34-43	Triangle.java	66
+Part	2015-05-06-18-34-43	Triangle.java	activated
+CaretPosition	2015-05-06-18-34-45	Triangle.java	63
+CaretPosition	2015-05-06-18-34-46	Triangle.java	59
+CaretPosition	2015-05-06-18-34-47	Triangle.java	63
+CaretPosition	2015-05-06-18-34-48	Triangle.java	57
+CaretPosition	2015-05-06-18-34-50	Triangle.java	67
+CaretPosition	2015-05-06-18-34-51	Triangle.java	66
+CaretPosition	2015-05-06-18-34-51	Triangle.java	67
+Part	2015-05-06-18-34-55	Triangle.java	deactivated
+Part	2015-05-06-18-34-55	TestTriangle.java	broughtToTop
+CaretPosition	2015-05-06-18-34-55	TestTriangle.java	54
+Part	2015-05-06-18-34-55	TestTriangle.java	activated
+Part	2015-05-06-18-34-56	TestTriangle.java	deactivated
+Part	2015-05-06-18-34-56	Triangle.java	broughtToTop
+CaretPosition	2015-05-06-18-34-56	Triangle.java	67
+Part	2015-05-06-18-34-56	Triangle.java	activated
+CaretPosition	2015-05-06-18-34-59	Triangle.java	55
+CaretPosition	2015-05-06-18-35-00	Triangle.java	68
+CaretPosition	2015-05-06-18-35-01	Triangle.java	55
+Part	2015-05-06-18-35-03	Triangle.java	deactivated
+Part	2015-05-06-18-35-03	TestTriangle.java	broughtToTop
+CaretPosition	2015-05-06-18-35-03	TestTriangle.java	54
+Part	2015-05-06-18-35-03	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-35-07	TestTriangle.java	53
+Part	2015-05-06-18-35-09	TestTriangle.java	deactivated
+Part	2015-05-06-18-35-09	Triangle.java	broughtToTop
+CaretPosition	2015-05-06-18-35-09	Triangle.java	55
+Part	2015-05-06-18-35-09	Triangle.java	activated
+Part	2015-05-06-18-35-11	Triangle.java	deactivated
+Part	2015-05-06-18-35-11	TestTriangle.java	broughtToTop
+CaretPosition	2015-05-06-18-35-11	TestTriangle.java	53
+Part	2015-05-06-18-35-11	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-35-13	TestTriangle.java	53
+CaretPosition	2015-05-06-18-35-14	TestTriangle.java	53
+CaretPosition	2015-05-06-18-35-15	TestTriangle.java	52
+Part	2015-05-06-18-35-15	TestTriangle.java	deactivated
+Part	2015-05-06-18-35-15	Triangle.java	broughtToTop
+CaretPosition	2015-05-06-18-35-15	Triangle.java	55
+Part	2015-05-06-18-35-15	Triangle.java	activated
+Part	2015-05-06-18-35-22	Triangle.java	deactivated
+Part	2015-05-06-18-35-22	TestTriangle.java	broughtToTop
+CaretPosition	2015-05-06-18-35-22	TestTriangle.java	52
+Part	2015-05-06-18-35-22	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-35-25	TestTriangle.java	53
+CaretPosition	2015-05-06-18-35-26	TestTriangle.java	53
+CaretPosition	2015-05-06-18-35-28	TestTriangle.java	53
+CaretPosition	2015-05-06-18-35-30	TestTriangle.java	53
+CaretPosition	2015-05-06-18-35-31	TestTriangle.java	53
+CaretPosition	2015-05-06-18-35-32	TestTriangle.java	53
+CaretPosition	2015-05-06-18-35-33	TestTriangle.java	53
+CaretPosition	2015-05-06-18-35-35	TestTriangle.java	53
+Part	2015-05-06-18-35-38	Triangle.java	broughtToTop
+Part	2015-05-06-18-35-39	TestTriangle.java	deactivated
+CaretPosition	2015-05-06-18-35-39	Triangle.java	55
+Part	2015-05-06-18-35-39	Triangle.java	activated
+CaretPosition	2015-05-06-18-35-39	Triangle.java	49
+CaretPosition	2015-05-06-18-35-42	Triangle.java	69
+CaretPosition	2015-05-06-18-35-47	Triangle.java	70
+CaretPosition	2015-05-06-18-35-48	Triangle.java	70
+CaretPosition	2015-05-06-18-35-53	Triangle.java	50
+CaretPosition	2015-05-06-18-35-54	Triangle.java	50
+CaretPosition	2015-05-06-18-35-55	Triangle.java	50
+CaretPosition	2015-05-06-18-35-57	Triangle.java	70
+CaretPosition	2015-05-06-18-35-58	Triangle.java	70
+CaretPosition	2015-05-06-18-35-59	Triangle.java	70
+CaretPosition	2015-05-06-18-36-00	Triangle.java	70
+CaretPosition	2015-05-06-18-36-02	Triangle.java	70
+CaretPosition	2015-05-06-18-36-03	Triangle.java	70
+CaretPosition	2015-05-06-18-36-04	Triangle.java	70
+FileChange	2015-05-06-18-36-06	C:\mooctest\projects\88\2878\Triangle\src\Triangle.java	[InsertDelta, position: 69, lines: [		System.out.println("strType: " + strType);]]	
+CaretPosition	2015-05-06-18-36-06	Triangle.java	68
+Part	2015-05-06-18-36-08	Triangle.java	deactivated
+Part	2015-05-06-18-36-08	TestTriangle.java	broughtToTop
+CaretPosition	2015-05-06-18-36-08	TestTriangle.java	53
+CaretPosition	2015-05-06-18-36-09	TestTriangle.java	53
+Part	2015-05-06-18-36-09	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-36-10	TestTriangle.java	53
+Part	2015-05-06-18-36-11	TestTriangle.java	deactivated
+Part	2015-05-06-18-36-11	JUnit (Finished after 0.047 seconds)	activated
+Part	2015-05-06-18-36-13	JUnit (Finished after 0.047 seconds)	deactivated
+Part	2015-05-06-18-36-13	Package Explorer	broughtToTop
+Part	2015-05-06-18-36-13	Package Explorer	activated
+Part	2015-05-06-18-36-17	Package Explorer	deactivated
+Part	2015-05-06-18-36-17	JUnit (TestTriangle)	broughtToTop
+Part	2015-05-06-18-36-17	JUnit (TestTriangle)	activated
+Part	2015-05-06-18-36-17	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:36:16))	broughtToTop
+Part	2015-05-06-18-36-17	JUnit (Finished after 0.047 seconds)	deactivated
+CaretPosition	2015-05-06-18-36-17	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:36:16))	1
+Part	2015-05-06-18-36-17	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:36:16))	activated
+CaretPosition	2015-05-06-18-36-20	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:36:16))	1
+CaretPosition	2015-05-06-18-36-22	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:36:16))	1
+CaretPosition	2015-05-06-18-36-22	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:36:16))	4
+CaretPosition	2015-05-06-18-36-24	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:36:16))	3
+Part	2015-05-06-18-36-24	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:36:16))	deactivated
+CaretPosition	2015-05-06-18-36-24	TestTriangle.java	53
+Part	2015-05-06-18-36-24	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-36-25	TestTriangle.java	54
+CaretPosition	2015-05-06-18-36-27	TestTriangle.java	52
+CaretPosition	2015-05-06-18-36-28	TestTriangle.java	54
+Part	2015-05-06-18-36-28	TestTriangle.java	deactivated
+Part	2015-05-06-18-36-28	Triangle.java	broughtToTop
+CaretPosition	2015-05-06-18-36-28	Triangle.java	68
+Part	2015-05-06-18-36-28	Triangle.java	activated
+CaretPosition	2015-05-06-18-36-30	Triangle.java	57
+CaretPosition	2015-05-06-18-36-34	Triangle.java	22
+CaretPosition	2015-05-06-18-36-35	Triangle.java	23
+CaretPosition	2015-05-06-18-36-37	Triangle.java	49
+CaretPosition	2015-05-06-18-36-38	Triangle.java	49
+CaretPosition	2015-05-06-18-36-39	Triangle.java	50
+Part	2015-05-06-18-36-41	Triangle.java	deactivated
+Part	2015-05-06-18-36-41	TestTriangle.java	broughtToTop
+CaretPosition	2015-05-06-18-36-41	TestTriangle.java	54
+Part	2015-05-06-18-36-41	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-36-43	TestTriangle.java	53
+CaretPosition	2015-05-06-18-36-45	TestTriangle.java	54
+CaretPosition	2015-05-06-18-36-47	TestTriangle.java	59
+CaretPosition	2015-05-06-18-36-47	TestTriangle.java	59
+Part	2015-05-06-18-36-55	TestTriangle.java	deactivated
+Part	2015-05-06-18-36-55	Triangle.java	broughtToTop
+CaretPosition	2015-05-06-18-36-55	Triangle.java	50
+Part	2015-05-06-18-36-55	Triangle.java	activated
+CaretPosition	2015-05-06-18-36-57	Triangle.java	49
+CaretPosition	2015-05-06-18-36-58	Triangle.java	50
+CaretPosition	2015-05-06-18-37-07	Triangle.java	53
+CaretPosition	2015-05-06-18-37-10	Triangle.java	40
+CaretPosition	2015-05-06-18-37-12	Triangle.java	41
+CaretPosition	2015-05-06-18-37-13	Triangle.java	41
+CaretPosition	2015-05-06-18-37-14	Triangle.java	41
+CaretPosition	2015-05-06-18-37-16	Triangle.java	44
+CaretPosition	2015-05-06-18-37-20	Triangle.java	41
+CaretPosition	2015-05-06-18-37-20	Triangle.java	41
+CaretPosition	2015-05-06-18-37-30	Triangle.java	41
+CaretPosition	2015-05-06-18-37-30	Triangle.java	42
+CaretPosition	2015-05-06-18-37-36	Triangle.java	42
+CaretPosition	2015-05-06-18-37-37	Triangle.java	42
+CaretPosition	2015-05-06-18-37-48	Triangle.java	25
+CaretPosition	2015-05-06-18-37-50	Triangle.java	42
+CaretPosition	2015-05-06-18-37-51	Triangle.java	42
+CaretPosition	2015-05-06-18-37-53	Triangle.java	42
+CaretPosition	2015-05-06-18-37-53	Triangle.java	42
+CaretPosition	2015-05-06-18-37-55	Triangle.java	42
+CaretPosition	2015-05-06-18-37-55	Triangle.java	42
+CaretPosition	2015-05-06-18-37-59	Triangle.java	42
+CaretPosition	2015-05-06-18-38-00	Triangle.java	42
+CaretPosition	2015-05-06-18-38-02	Triangle.java	42
+CaretPosition	2015-05-06-18-38-03	Triangle.java	42
+CaretPosition	2015-05-06-18-38-04	Triangle.java	42
+CaretPosition	2015-05-06-18-38-06	Triangle.java	42
+CaretPosition	2015-05-06-18-38-07	Triangle.java	42
+CaretPosition	2015-05-06-18-38-09	Triangle.java	42
+CaretPosition	2015-05-06-18-38-10	Triangle.java	43
+FileChange	2015-05-06-18-38-11	C:\mooctest\projects\88\2878\Triangle\src\Triangle.java	[InsertDelta, position: 40, lines: [		if (!isTriangle) {, 			System.out.println(triangle.lborderA + " " + triangle.lborderB, 					+ " " + triangle.lborderC);, 		}]]	
+CaretPosition	2015-05-06-18-38-12	Triangle.java	40
+CaretPosition	2015-05-06-18-38-12	Triangle.java	43
+CaretPosition	2015-05-06-18-38-34	Triangle.java	40
+CaretPosition	2015-05-06-18-38-35	Triangle.java	42
+CaretPosition	2015-05-06-18-38-37	Triangle.java	44
+CaretPosition	2015-05-06-18-38-38	Triangle.java	41
+CaretPosition	2015-05-06-18-38-40	Triangle.java	38
+CaretPosition	2015-05-06-18-38-40	Triangle.java	39
+FileChange	2015-05-06-18-38-43	C:\mooctest\projects\88\2878\Triangle\src\Triangle.java	[DeleteDelta, position: 38, lines: []]	
+CaretPosition	2015-05-06-18-38-45	Triangle.java	43
+CaretPosition	2015-05-06-18-38-48	Triangle.java	42
+Part	2015-05-06-18-38-49	Package Explorer	broughtToTop
+Part	2015-05-06-18-38-49	Triangle.java	deactivated
+Part	2015-05-06-18-38-49	Package Explorer	activated
+Part	2015-05-06-18-38-53	Package Explorer	deactivated
+Part	2015-05-06-18-38-53	JUnit (TestTriangle)	broughtToTop
+Part	2015-05-06-18-38-53	JUnit (TestTriangle)	activated
+Part	2015-05-06-18-38-53	JUnit (Finished after 0.042 seconds)	deactivated
+CaretPosition	2015-05-06-18-38-53	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	3
+CaretPosition	2015-05-06-18-38-53	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	1
+Part	2015-05-06-18-38-53	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	activated
+CaretPosition	2015-05-06-18-38-55	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	12
+CaretPosition	2015-05-06-18-38-55	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	12
+CaretPosition	2015-05-06-18-38-55	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	4
+CaretPosition	2015-05-06-18-38-55	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	4
+CaretPosition	2015-05-06-18-38-57	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	1
+CaretPosition	2015-05-06-18-38-57	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	1
+CaretPosition	2015-05-06-18-38-57	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	4
+CaretPosition	2015-05-06-18-38-57	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	4
+Part	2015-05-06-18-38-58	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	deactivated
+CaretPosition	2015-05-06-18-38-58	Triangle.java	42
+Part	2015-05-06-18-38-58	Triangle.java	activated
+CaretPosition	2015-05-06-18-38-58	Triangle.java	29
+Part	2015-05-06-18-39-01	Triangle.java	deactivated
+Part	2015-05-06-18-39-01	TestTriangle.java	broughtToTop
+CaretPosition	2015-05-06-18-39-01	TestTriangle.java	59
+Part	2015-05-06-18-39-01	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-39-02	TestTriangle.java	55
+Part	2015-05-06-18-39-08	TestTriangle.java	deactivated
+CaretPosition	2015-05-06-18-39-08	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	4
+Part	2015-05-06-18-39-09	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	activated
+CaretPosition	2015-05-06-18-39-09	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	2
+CaretPosition	2015-05-06-18-39-09	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	2
+CaretPosition	2015-05-06-18-39-11	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	1
+CaretPosition	2015-05-06-18-39-11	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	1
+CaretPosition	2015-05-06-18-39-12	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	4
+CaretPosition	2015-05-06-18-39-12	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	4
+CaretPosition	2015-05-06-18-39-13	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	3
+CaretPosition	2015-05-06-18-39-13	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	3
+CaretPosition	2015-05-06-18-39-15	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	5
+CaretPosition	2015-05-06-18-39-15	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	5
+Part	2015-05-06-18-39-15	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	deactivated
+CaretPosition	2015-05-06-18-39-15	TestTriangle.java	55
+Part	2015-05-06-18-39-15	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-39-16	TestTriangle.java	62
+Part	2015-05-06-18-39-17	TestTriangle.java	deactivated
+CaretPosition	2015-05-06-18-39-17	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	5
+Part	2015-05-06-18-39-17	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	activated
+CaretPosition	2015-05-06-18-39-18	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	6
+CaretPosition	2015-05-06-18-39-18	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	6
+CaretPosition	2015-05-06-18-39-18	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	8
+CaretPosition	2015-05-06-18-39-18	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	8
+Part	2015-05-06-18-39-18	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	deactivated
+CaretPosition	2015-05-06-18-39-18	TestTriangle.java	62
+Part	2015-05-06-18-39-18	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-39-19	TestTriangle.java	67
+CaretPosition	2015-05-06-18-39-20	TestTriangle.java	71
+CaretPosition	2015-05-06-18-39-21	TestTriangle.java	66
+Part	2015-05-06-18-39-23	TestTriangle.java	deactivated
+Part	2015-05-06-18-39-23	Triangle.java	broughtToTop
+CaretPosition	2015-05-06-18-39-23	Triangle.java	29
+Part	2015-05-06-18-39-23	Triangle.java	activated
+CaretPosition	2015-05-06-18-39-24	Triangle.java	32
+CaretPosition	2015-05-06-18-39-25	Triangle.java	29
+CaretPosition	2015-05-06-18-39-28	Triangle.java	28
+CaretPosition	2015-05-06-18-39-29	Triangle.java	28
+CaretPosition	2015-05-06-18-39-31	Triangle.java	33
+CaretPosition	2015-05-06-18-39-34	Triangle.java	28
+CaretPosition	2015-05-06-18-39-35	Triangle.java	34
+CaretPosition	2015-05-06-18-39-36	Triangle.java	28
+CaretPosition	2015-05-06-18-39-37	Triangle.java	28
+CaretPosition	2015-05-06-18-39-49	Triangle.java	33
+CaretPosition	2015-05-06-18-39-51	Triangle.java	33
+CaretPosition	2015-05-06-18-39-52	Triangle.java	33
+CaretPosition	2015-05-06-18-39-54	Triangle.java	33
+CaretPosition	2015-05-06-18-39-55	Triangle.java	33
+CaretPosition	2015-05-06-18-39-56	Triangle.java	33
+CaretPosition	2015-05-06-18-39-58	Triangle.java	33
+CaretPosition	2015-05-06-18-39-59	Triangle.java	33
+CaretPosition	2015-05-06-18-40-06	Triangle.java	82
+CaretPosition	2015-05-06-18-40-07	Triangle.java	84
+CaretPosition	2015-05-06-18-40-10	Triangle.java	82
+CaretPosition	2015-05-06-18-40-11	Triangle.java	84
+CaretPosition	2015-05-06-18-40-12	Triangle.java	82
+CaretPosition	2015-05-06-18-40-14	Triangle.java	82
+CaretPosition	2015-05-06-18-40-15	Triangle.java	82
+CaretPosition	2015-05-06-18-40-16	Triangle.java	84
+CaretPosition	2015-05-06-18-40-25	Triangle.java	80
+CaretPosition	2015-05-06-18-40-26	Triangle.java	84
+CaretPosition	2015-05-06-18-40-27	Triangle.java	83
+CaretPosition	2015-05-06-18-40-28	Triangle.java	84
+CaretPosition	2015-05-06-18-40-30	Triangle.java	83
+CaretPosition	2015-05-06-18-40-31	Triangle.java	84
+CaretPosition	2015-05-06-18-40-33	Triangle.java	83
+CaretPosition	2015-05-06-18-40-34	Triangle.java	84
+CaretPosition	2015-05-06-18-40-35	Triangle.java	83
+CaretPosition	2015-05-06-18-40-37	Triangle.java	85
+CaretPosition	2015-05-06-18-40-42	Triangle.java	83
+CaretPosition	2015-05-06-18-41-03	Triangle.java	33
+CaretPosition	2015-05-06-18-41-05	Triangle.java	37
+CaretPosition	2015-05-06-18-41-07	Triangle.java	37
+FileChange	2015-05-06-18-41-09	C:\mooctest\projects\88\2878\Triangle\src\Triangle.java	[ChangeDelta, position: 36, lines: [				isTriangle = false;] to [				isTriangle = true;]]	
+CaretPosition	2015-05-06-18-41-10	Triangle.java	37
+CaretPosition	2015-05-06-18-41-10	Triangle.java	37
+CaretPosition	2015-05-06-18-41-13	Triangle.java	34
+CaretPosition	2015-05-06-18-41-15	Triangle.java	33
+CaretPosition	2015-05-06-18-41-16	Triangle.java	37
+CaretPosition	2015-05-06-18-41-23	Triangle.java	89
+CaretPosition	2015-05-06-18-41-24	Triangle.java	89
+CaretPosition	2015-05-06-18-41-26	Triangle.java	88
+FileChange	2015-05-06-18-41-28	C:\mooctest\projects\88\2878\Triangle\src\Triangle.java	[ChangeDelta, position: 88, lines: [	public long[] getBorders() {, 		long[] borders = new long[3];, 		borders[0] = this.lborderA;, 		borders[1] = this.lborderB;, 		borders[2] = this.lborderC;, 		return borders;, 	}] to [	// public long[] getBorders() {, 	// long[] borders = new long[3];, 	// borders[0] = this.lborderA;, 	// borders[1] = this.lborderB;, 	// borders[2] = this.lborderC;, 	// return borders;, 	// }]]	
+CaretPosition	2015-05-06-18-41-31	Triangle.java	95
+CaretPosition	2015-05-06-18-41-32	Triangle.java	89
+CaretPosition	2015-05-06-18-41-33	Triangle.java	88
+FileChange	2015-05-06-18-41-34	C:\mooctest\projects\88\2878\Triangle\src\Triangle.java	[ChangeDelta, position: 88, lines: [	// public long[] getBorders() {, 	// long[] borders = new long[3];, 	// borders[0] = this.lborderA;, 	// borders[1] = this.lborderB;, 	// borders[2] = this.lborderC;, 	// return borders;, 	// }] to [	public long[] getBorders() {, 		long[] borders = new long[3];, 		borders[0] = this.lborderA;, 		borders[1] = this.lborderB;, 		borders[2] = this.lborderC;, 		return borders;, 	}]]	
+Part	2015-05-06-18-41-37	Triangle.java	deactivated
+CaretPosition	2015-05-06-18-41-37	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	8
+Part	2015-05-06-18-41-37	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	activated
+CaretPosition	2015-05-06-18-41-37	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	7
+CaretPosition	2015-05-06-18-41-37	Console (<terminated> TestTriangle [JUnit] C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe (2015年5月6日 下午6:38:53))	7
+CaretPosition	2015-05-06-18-41-38	Console (Android)	1
+CaretPosition	2015-05-06-18-41-38	Console (Android)	1
+Part	2015-05-06-18-41-39	Package Explorer	broughtToTop
+Part	2015-05-06-18-41-39	Console (Android)	deactivated
+Part	2015-05-06-18-41-39	Package Explorer	activated
+Part	2015-05-06-18-41-43	Package Explorer	deactivated
+Part	2015-05-06-18-41-43	JUnit (TestTriangle)	broughtToTop
+Part	2015-05-06-18-41-43	JUnit (TestTriangle)	activated
+Part	2015-05-06-18-41-47	JUnit (Finished after 0.031 seconds)	deactivated
+CaretPosition	2015-05-06-18-41-47	Triangle.java	88
+Part	2015-05-06-18-41-47	Triangle.java	activated
+CaretPosition	2015-05-06-18-41-48	Triangle.java	20
+CaretPosition	2015-05-06-18-41-54	Triangle.java	37
+CaretPosition	2015-05-06-18-41-55	Triangle.java	37
+CaretPosition	2015-05-06-18-41-56	Triangle.java	37
+CaretPosition	2015-05-06-18-41-59	Triangle.java	37
+CaretPosition	2015-05-06-18-42-00	Triangle.java	37
+FileChange	2015-05-06-18-42-00	C:\mooctest\projects\88\2878\Triangle\src\Triangle.java	[ChangeDelta, position: 36, lines: [				isTriangle = true;] to [				isTriangle = true;// wsy 5/6]]	
+CaretPosition	2015-05-06-18-42-06	Triangle.java	40
+CaretPosition	2015-05-06-18-42-07	Triangle.java	40
+FileChange	2015-05-06-18-42-08	C:\mooctest\projects\88\2878\Triangle\src\Triangle.java	[DeleteDelta, position: 39, lines: [		if (!isTriangle) {, 			System.out.println(triangle.lborderA + " " + triangle.lborderB, 					+ " " + triangle.lborderC);, 		}]]	
+CaretPosition	2015-05-06-18-42-13	Triangle.java	69
+CaretPosition	2015-05-06-18-42-14	Triangle.java	69
+FileChange	2015-05-06-18-42-15	C:\mooctest\projects\88\2878\Triangle\src\Triangle.java	[DeleteDelta, position: 68, lines: [		System.out.println("strType: " + strType);, ]]	
+Part	2015-05-06-18-42-19	TestTriangle.java	broughtToTop
+Part	2015-05-06-18-42-19	Triangle.java	deactivated
+CaretPosition	2015-05-06-18-42-19	TestTriangle.java	66
+Part	2015-05-06-18-42-19	TestTriangle.java	activated
+Part	2015-05-06-18-42-19	Triangle.java	closed
+Part	2015-05-06-18-42-20	TestTriangle.java	deactivated
+Part	2015-05-06-18-42-20	JUnit (Finished after 0.031 seconds)	activated
+Part	2015-05-06-18-42-20	TestTriangle.java	closed
+Part	2015-05-06-18-45-34	JUnit (Finished after 0.031 seconds)	deactivated
+Part	2015-05-06-18-45-34	Package Explorer	broughtToTop
+Part	2015-05-06-18-45-34	Package Explorer	activated
+Part	2015-05-06-18-45-41	Package Explorer	deactivated
+Part	2015-05-06-18-45-42	MoocTest	opened
+Part	2015-05-06-18-45-42	MoocTest	broughtToTop
+Part	2015-05-06-18-45-42	MoocTest	activated
+Part	2015-05-06-18-46-00	MoocTest	deactivated
+Part	2015-05-06-18-46-00	Package Explorer	activated
+Part	2015-05-06-18-46-04	TestNextDay.java	opened
+Part	2015-05-06-18-46-04	TestNextDay.java	broughtToTop
+Part	2015-05-06-18-46-04	Package Explorer	deactivated
+CaretPosition	2015-05-06-18-46-04	TestNextDay.java	1
+Part	2015-05-06-18-46-04	TestNextDay.java	activated
+CaretPosition	2015-05-06-18-46-05	TestNextDay.java	9
+CaretPosition	2015-05-06-18-46-13	TestNextDay.java	8
+CaretPosition	2015-05-06-18-46-14	TestNextDay.java	13
+CaretPosition	2015-05-06-18-46-25	TestNextDay.java	9
+Part	2015-05-06-18-46-25	TestNextDay.java	deactivated
+Part	2015-05-06-18-46-25	Package Explorer	activated
+Part	2015-05-06-18-46-26	Triangle.java	opened
+Part	2015-05-06-18-46-26	Triangle.java	broughtToTop
+Part	2015-05-06-18-46-26	Package Explorer	deactivated
+CaretPosition	2015-05-06-18-46-26	Triangle.java	1
+Part	2015-05-06-18-46-26	Triangle.java	activated
+CaretPosition	2015-05-06-18-46-28	Triangle.java	12
+CaretPosition	2015-05-06-18-46-42	Triangle.java	35
+CaretPosition	2015-05-06-18-46-45	Triangle.java	35
+CaretPosition	2015-05-06-18-46-47	Triangle.java	39
+CaretPosition	2015-05-06-18-46-55	Triangle.java	38
+CaretPosition	2015-05-06-18-46-56	Triangle.java	40
+CaretPosition	2015-05-06-18-46-59	Triangle.java	40
+CaretPosition	2015-05-06-18-47-02	Triangle.java	38
+CaretPosition	2015-05-06-18-47-04	Triangle.java	26
+Part	2015-05-06-18-47-08	Triangle.java	deactivated
+Part	2015-05-06-18-47-08	TestNextDay.java	broughtToTop
+CaretPosition	2015-05-06-18-47-08	TestNextDay.java	9
+Part	2015-05-06-18-47-08	TestNextDay.java	activated
+Part	2015-05-06-18-47-09	Triangle.java	broughtToTop
+Part	2015-05-06-18-47-09	TestNextDay.java	deactivated
+CaretPosition	2015-05-06-18-47-09	Triangle.java	26
+Part	2015-05-06-18-47-09	Triangle.java	activated
+Part	2015-05-06-18-47-09	TestNextDay.java	closed
+Part	2015-05-06-18-47-10	Triangle.java	deactivated
+Part	2015-05-06-18-47-10	Package Explorer	activated
+Part	2015-05-06-18-47-12	TestTriangle.java	opened
+Part	2015-05-06-18-47-12	TestTriangle.java	broughtToTop
+Part	2015-05-06-18-47-12	Package Explorer	deactivated
+CaretPosition	2015-05-06-18-47-12	TestTriangle.java	1
+Part	2015-05-06-18-47-12	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-47-13	TestTriangle.java	10
+CaretPosition	2015-05-06-18-47-15	TestTriangle.java	10
+CaretPosition	2015-05-06-18-47-16	TestTriangle.java	10
+CaretPosition	2015-05-06-18-47-17	TestTriangle.java	9
+CaretPosition	2015-05-06-18-47-19	TestTriangle.java	10
+Part	2015-05-06-18-47-19	TestTriangle.java	deactivated
+Part	2015-05-06-18-47-19	Package Explorer	activated
+Part	2015-05-06-18-47-21	Package Explorer	deactivated
+CaretPosition	2015-05-06-18-47-21	TestTriangle.java	10
+Part	2015-05-06-18-47-21	TestTriangle.java	activated
+CaretPosition	2015-05-06-18-47-39	TestTriangle.java	10
+CaretPosition	2015-05-06-18-47-40	TestTriangle.java	10
+CaretPosition	2015-05-06-18-47-42	TestTriangle.java	10
+CaretPosition	2015-05-06-18-47-43	TestTriangle.java	12
+CaretPosition	2015-05-06-18-47-45	TestTriangle.java	17
+CaretPosition	2015-05-06-18-47-45	TestTriangle.java	17
+Part	2015-05-06-18-47-51	TestTriangle.java	deactivated
+Part	2015-05-06-18-47-51	Triangle.java	broughtToTop
+CaretPosition	2015-05-06-18-47-51	Triangle.java	26
+Part	2015-05-06-18-47-52	Triangle.java	activated
+CaretPosition	2015-05-06-18-47-54	Triangle.java	49
+CaretPosition	2015-05-06-18-47-58	Triangle.java	33
+CaretPosition	2015-05-06-18-47-59	Triangle.java	32
+CaretPosition	2015-05-06-18-48-00	Triangle.java	76
+CaretPosition	2015-05-06-18-48-01	Triangle.java	78
+CaretPosition	2015-05-06-18-48-02	Triangle.java	77
+CaretPosition	2015-05-06-18-48-03	Triangle.java	78
+CaretPosition	2015-05-06-18-48-04	Triangle.java	77
+CaretPosition	2015-05-06-18-48-05	Triangle.java	78
+CaretPosition	2015-05-06-18-48-07	Triangle.java	77
+CaretPosition	2015-05-06-18-48-08	Triangle.java	78
+CaretPosition	2015-05-06-18-48-10	Triangle.java	77
+CaretPosition	2015-05-06-18-48-12	Triangle.java	77
+CaretPosition	2015-05-06-18-48-28	Triangle.java	54
+CaretPosition	2015-05-06-18-48-30	Triangle.java	59
+CaretPosition	2015-05-06-18-48-31	Triangle.java	63
+CaretPosition	2015-05-06-18-48-34	Triangle.java	62
+CaretPosition	2015-05-06-18-48-35	Triangle.java	59
+CaretPosition	2015-05-06-18-48-36	Triangle.java	59
+CaretPosition	2015-05-06-18-48-36	Triangle.java	63
+CaretPosition	2015-05-06-18-48-39	Triangle.java	67
+CaretPosition	2015-05-06-18-48-41	Triangle.java	68
+CaretPosition	2015-05-06-18-48-43	Triangle.java	65
+CaretPosition	2015-05-06-18-48-46	Triangle.java	67
+CaretPosition	2015-05-06-18-48-48	Triangle.java	65
+CaretPosition	2015-05-06-18-48-50	Triangle.java	67
+CaretPosition	2015-05-06-18-48-52	Triangle.java	65
+Part	2015-05-06-18-48-54	Triangle.java	deactivated
+Part	2015-05-06-18-48-54	MoocTest	activated
+Part	2015-05-06-18-48-54	MoocTest	deactivated
+CaretPosition	2015-05-06-18-48-54	Triangle.java	65
+Part	2015-05-06-18-48-54	Triangle.java	activated
+CaretPosition	2015-05-06-18-48-56	Triangle.java	63
+CaretPosition	2015-05-06-18-48-57	Triangle.java	57
+CaretPosition	2015-05-06-18-48-57	Triangle.java	54
+CaretPosition	2015-05-06-18-48-58	Triangle.java	57
+CaretPosition	2015-05-06-18-48-59	Triangle.java	58
+CaretPosition	2015-05-06-18-49-01	Triangle.java	58
+CaretPosition	2015-05-06-18-49-02	Triangle.java	59
+CaretPosition	2015-05-06-18-49-05	Triangle.java	61
+CaretPosition	2015-05-06-18-49-06	Triangle.java	58
+CaretPosition	2015-05-06-18-49-07	Triangle.java	57
+CaretPosition	2015-05-06-18-49-09	Triangle.java	57
+CaretPosition	2015-05-06-18-49-10	Triangle.java	57
+CaretPosition	2015-05-06-18-49-14	Triangle.java	58
+CaretPosition	2015-05-06-18-49-15	Triangle.java	57
+Part	2015-05-06-18-49-21	Triangle.java	deactivated
+Part	2015-05-06-18-49-21	MoocTest	activated
+Part	2015-05-06-18-49-25	MoocTest	deactivated
+CaretPosition	2015-05-06-18-49-25	Triangle.java	57
+Part	2015-05-06-18-49-25	Triangle.java	activated
+CaretPosition	2015-05-06-18-49-25	Triangle.java	65
+CaretPosition	2015-05-06-18-49-46	Triangle.java	64
+CaretPosition	2015-05-06-18-49-49	Triangle.java	62
+Part	2015-05-06-18-49-49	TestTriangle.java	broughtToTop
+Part	2015-05-06-18-49-49	Triangle.java	deactivated
+CaretPosition	2015-05-06-18-49-49	TestTriangle.java	17
+Part	2015-05-06-18-49-49	TestTriangle.java	activated
+Part	2015-05-06-18-49-49	Triangle.java	closed
+Part	2015-05-06-18-49-50	TestTriangle.java	deactivated
+Part	2015-05-06-18-49-50	MoocTest	activated
+Part	2015-05-06-18-49-50	TestTriangle.java	closed
+Part	2015-05-06-18-49-52	MoocTest	deactivated
+Part	2015-05-06-18-49-52	Package Explorer	activated
+Part	2015-05-06-18-49-59	TestNextDay.java	opened
+Part	2015-05-06-18-49-59	TestNextDay.java	broughtToTop
+Part	2015-05-06-18-50-00	Package Explorer	deactivated
+CaretPosition	2015-05-06-18-50-00	TestNextDay.java	1
+Part	2015-05-06-18-50-00	TestNextDay.java	activated
+CaretPosition	2015-05-06-18-50-03	TestNextDay.java	12
+CaretPosition	2015-05-06-18-50-04	TestNextDay.java	10
+CaretPosition	2015-05-06-18-50-05	TestNextDay.java	16
+CaretPosition	2015-05-06-18-50-13	TestNextDay.java	22
+CaretPosition	2015-05-06-18-50-16	TestNextDay.java	26
+CaretPosition	2015-05-06-18-50-21	TestNextDay.java	30
+CaretPosition	2015-05-06-18-50-25	TestNextDay.java	12
+Part	2015-05-06-18-50-26	TestNextDay.java	deactivated
+Part	2015-05-06-18-50-26	MoocTest	activated
+Part	2015-05-06-18-50-32	MoocTest	deactivated
+CaretPosition	2015-05-06-18-50-32	TestNextDay.java	12
+Part	2015-05-06-18-50-32	TestNextDay.java	activated
+CaretPosition	2015-05-06-18-50-32	TestNextDay.java	13
+CaretPosition	2015-05-06-18-50-34	TestNextDay.java	12
+CaretPosition	2015-05-06-18-50-35	TestNextDay.java	10
+CaretPosition	2015-05-06-18-50-36	TestNextDay.java	13
+Part	2015-05-06-18-50-54	TestNextDay.java	deactivated
+Part	2015-05-06-18-50-54	MoocTest	activated
+Part	2015-05-06-18-50-57	MoocTest	deactivated
+CaretPosition	2015-05-06-18-50-57	TestNextDay.java	13
+Part	2015-05-06-18-50-57	TestNextDay.java	activated
+CaretPosition	2015-05-06-18-51-00	TestNextDay.java	9
+Part	2015-05-06-18-51-00	TestNextDay.java	deactivated
+Part	2015-05-06-18-51-00	MoocTest	activated
+Part	2015-05-06-18-51-02	MoocTest	deactivated
+CaretPosition	2015-05-06-18-51-02	TestNextDay.java	9
+Part	2015-05-06-18-51-02	TestNextDay.java	activated
+CaretPosition	2015-05-06-18-51-03	TestNextDay.java	8
+CaretPosition	2015-05-06-18-51-04	TestNextDay.java	13
+Part	2015-05-06-18-51-09	TestNextDay.java	deactivated
+Part	2015-05-06-18-51-09	Package Explorer	activated
+Part	2015-05-06-18-51-16	Package Explorer	deactivated
+Part	2015-05-06-18-51-17	JUnit (TestNextDay)	broughtToTop
+Part	2015-05-06-18-51-17	JUnit (TestNextDay)	activated
+Part	2015-05-06-18-51-19	JUnit (Finished after 0.047 seconds)	deactivated
+CaretPosition	2015-05-06-18-51-19	TestNextDay.java	13
+Part	2015-05-06-18-51-19	TestNextDay.java	activated
+CaretPosition	2015-05-06-18-51-20	TestNextDay.java	16
+CaretPosition	2015-05-06-18-51-23	TestNextDay.java	22
+CaretPosition	2015-05-06-18-51-26	TestNextDay.java	26
+CaretPosition	2015-05-06-18-51-28	TestNextDay.java	24
+CaretPosition	2015-05-06-18-51-29	TestNextDay.java	26
+CaretPosition	2015-05-06-18-51-44	TestNextDay.java	27
+CaretPosition	2015-05-06-18-51-53	TestNextDay.java	25
+CaretPosition	2015-05-06-18-52-51	TestNextDay.java	27
+CaretPosition	2015-05-06-18-53-34	TestNextDay.java	24
+CaretPosition	2015-05-06-18-53-35	TestNextDay.java	25
+CaretPosition	2015-05-06-18-53-36	TestNextDay.java	24
+CaretPosition	2015-05-06-18-53-38	TestNextDay.java	25
+CaretPosition	2015-05-06-18-53-40	TestNextDay.java	26
+CaretPosition	2015-05-06-18-53-42	TestNextDay.java	25
+Part	2015-05-06-18-54-16	Day.java	opened
+Part	2015-05-06-18-54-16	Day.java	broughtToTop
+Part	2015-05-06-18-54-16	TestNextDay.java	deactivated
+CaretPosition	2015-05-06-18-54-16	Day.java	1
+Part	2015-05-06-18-54-16	Day.java	activated
+CaretPosition	2015-05-06-18-54-20	Day.java	24
+Part	2015-05-06-18-54-20	Day.java	deactivated
+Part	2015-05-06-18-54-20	TestNextDay.java	broughtToTop
+CaretPosition	2015-05-06-18-54-20	TestNextDay.java	26
+CaretPosition	2015-05-06-18-54-20	TestNextDay.java	26
+Part	2015-05-06-18-54-21	TestNextDay.java	activated
+Part	2015-05-06-18-54-22	Date.java	opened
+Part	2015-05-06-18-54-22	Date.java	broughtToTop
+Part	2015-05-06-18-54-22	TestNextDay.java	deactivated
+CaretPosition	2015-05-06-18-54-22	Date.java	1
+Part	2015-05-06-18-54-22	Date.java	activated
+CaretPosition	2015-05-06-18-54-23	Date.java	26
+CaretPosition	2015-05-06-18-54-24	Date.java	26
+CaretPosition	2015-05-06-18-54-27	Date.java	13
+CaretPosition	2015-05-06-18-54-31	Date.java	14
+CaretPosition	2015-05-06-18-54-37	Date.java	15
+CaretPosition	2015-05-06-18-54-38	Date.java	13
+CaretPosition	2015-05-06-18-54-41	Date.java	8
+CaretPosition	2015-05-06-18-54-46	Date.java	10
+Part	2015-05-06-18-54-51	Month.java	opened
+Part	2015-05-06-18-54-51	Month.java	broughtToTop
+Part	2015-05-06-18-54-51	Date.java	deactivated
+CaretPosition	2015-05-06-18-54-51	Month.java	1
+Part	2015-05-06-18-54-51	Month.java	activated
+CaretPosition	2015-05-06-18-54-51	Month.java	29
+CaretPosition	2015-05-06-18-54-53	Month.java	30
+CaretPosition	2015-05-06-18-54-54	Month.java	30
+CaretPosition	2015-05-06-18-54-55	Month.java	32
+CaretPosition	2015-05-06-18-54-57	Month.java	31
+CaretPosition	2015-05-06-18-54-58	Month.java	33
+CaretPosition	2015-05-06-18-55-00	Month.java	30
+CaretPosition	2015-05-06-18-55-04	Month.java	32
+Part	2015-05-06-18-55-08	Date.java	broughtToTop
+Part	2015-05-06-18-55-08	Month.java	deactivated
+CaretPosition	2015-05-06-18-55-08	Date.java	14
+CaretPosition	2015-05-06-18-55-08	Date.java	14
+Part	2015-05-06-18-55-08	Date.java	activated
+Part	2015-05-06-18-55-08	Month.java	closed
+CaretPosition	2015-05-06-18-55-10	Date.java	12
+CaretPosition	2015-05-06-18-55-11	Date.java	13
+Part	2015-05-06-18-55-13	Day.java	broughtToTop
+Part	2015-05-06-18-55-13	Date.java	deactivated
+CaretPosition	2015-05-06-18-55-13	Day.java	24
+Part	2015-05-06-18-55-13	Day.java	activated
+CaretPosition	2015-05-06-18-55-13	Day.java	8
+CaretPosition	2015-05-06-18-55-15	Day.java	11
+CaretPosition	2015-05-06-18-55-17	Day.java	9
+CaretPosition	2015-05-06-18-55-18	Day.java	11
+CaretPosition	2015-05-06-18-55-19	Day.java	9
+Part	2015-05-06-18-55-23	Month.java	opened
+Part	2015-05-06-18-55-23	Month.java	broughtToTop
+Part	2015-05-06-18-55-23	Day.java	deactivated
+CaretPosition	2015-05-06-18-55-23	Month.java	1
+Part	2015-05-06-18-55-24	Month.java	activated
+CaretPosition	2015-05-06-18-55-24	Month.java	21
+CaretPosition	2015-05-06-18-55-26	Month.java	27
+CaretPosition	2015-05-06-18-55-28	Month.java	22
+CaretPosition	2015-05-06-18-55-29	Month.java	22
+CaretPosition	2015-05-06-18-55-30	Month.java	22
+CaretPosition	2015-05-06-18-55-30	Month.java	23
+CaretPosition	2015-05-06-18-55-32	Month.java	23
+CaretPosition	2015-05-06-18-55-34	Month.java	26
+Part	2015-05-06-18-55-36	Month.java	deactivated
+Part	2015-05-06-18-55-36	TestNextDay.java	broughtToTop
+CaretPosition	2015-05-06-18-55-36	TestNextDay.java	26
+CaretPosition	2015-05-06-18-55-36	TestNextDay.java	26
+Part	2015-05-06-18-55-36	TestNextDay.java	activated
+CaretPosition	2015-05-06-18-55-37	TestNextDay.java	25
+CaretPosition	2015-05-06-18-55-40	TestNextDay.java	31
+Part	2015-05-06-18-55-42	TestNextDay.java	deactivated
+Part	2015-05-06-18-55-42	Month.java	broughtToTop
+CaretPosition	2015-05-06-18-55-42	Month.java	26
+Part	2015-05-06-18-55-42	Month.java	activated
+CaretPosition	2015-05-06-18-55-45	Month.java	22
+CaretPosition	2015-05-06-18-55-45	Month.java	22
+CaretPosition	2015-05-06-18-55-46	Month.java	22
+CaretPosition	2015-05-06-18-55-48	Month.java	23
+CaretPosition	2015-05-06-18-55-53	Month.java	23
+CaretPosition	2015-05-06-18-56-00	Month.java	22
+Part	2015-05-06-18-56-02	Year.java	opened
+Part	2015-05-06-18-56-02	Year.java	broughtToTop
+Part	2015-05-06-18-56-02	Month.java	deactivated
+CaretPosition	2015-05-06-18-56-02	Year.java	1
+Part	2015-05-06-18-56-02	Year.java	activated
+CaretPosition	2015-05-06-18-56-02	Year.java	24
+CaretPosition	2015-05-06-18-56-04	Year.java	30
+CaretPosition	2015-05-06-18-56-04	Year.java	28
+CaretPosition	2015-05-06-18-56-06	Year.java	30
+Part	2015-05-06-18-56-11	Year.java	deactivated
+Part	2015-05-06-18-56-11	Month.java	broughtToTop
+CaretPosition	2015-05-06-18-56-11	Month.java	22
+CaretPosition	2015-05-06-18-56-11	Month.java	22
+Part	2015-05-06-18-56-11	Month.java	activated
+CaretPosition	2015-05-06-18-56-14	Month.java	23
+Part	2015-05-06-18-56-16	Month.java	deactivated
+Part	2015-05-06-18-56-16	Year.java	broughtToTop
+CaretPosition	2015-05-06-18-56-16	Year.java	30
+Part	2015-05-06-18-56-16	Year.java	activated
+CaretPosition	2015-05-06-18-56-18	Year.java	27
+CaretPosition	2015-05-06-18-56-20	Year.java	30
+CaretPosition	2015-05-06-18-56-21	Year.java	30
+CaretPosition	2015-05-06-18-56-22	Year.java	30
+CaretPosition	2015-05-06-18-56-24	Year.java	24
+CaretPosition	2015-05-06-18-56-26	Year.java	25
+CaretPosition	2015-05-06-18-56-27	Year.java	27
+CaretPosition	2015-05-06-18-56-28	Year.java	28
+CaretPosition	2015-05-06-18-56-44	Year.java	27
+CaretPosition	2015-05-06-18-56-47	Year.java	26
+CaretPosition	2015-05-06-18-56-48	Year.java	27
+CaretPosition	2015-05-06-18-56-58	Year.java	26
+CaretPosition	2015-05-06-18-56-59	Year.java	27
+CaretPosition	2015-05-06-18-57-01	Year.java	26
+CaretPosition	2015-05-06-18-57-03	Year.java	27
+CaretPosition	2015-05-06-18-57-05	Year.java	26
+CaretPosition	2015-05-06-18-57-06	Year.java	28
+CaretPosition	2015-05-06-18-57-16	Year.java	27
+CaretPosition	2015-05-06-18-57-22	Year.java	26
+CaretPosition	2015-05-06-18-57-24	Year.java	26
+CaretPosition	2015-05-06-18-57-26	Year.java	28
+FileChange	2015-05-06-18-57-26	C:\mooctest\projects\88\2878\Nextday\src\Year.java	[ChangeDelta, position: 25, lines: [				&& (((currentPos % 4 == 0) && (currentPos % 100 != 0)) && (currentPos % 400 == 0)))] to [				&& (((currentPos % 4 == 0) && (currentPos % 100 != 0)) ))]]	
+CaretPosition	2015-05-06-18-57-32	Year.java	25
+CaretPosition	2015-05-06-18-57-34	Year.java	28
+CaretPosition	2015-05-06-18-57-36	Year.java	26
+CaretPosition	2015-05-06-18-57-37	Year.java	26
+CaretPosition	2015-05-06-18-57-39	Year.java	26
+CaretPosition	2015-05-06-18-57-41	Year.java	26
+CaretPosition	2015-05-06-18-57-46	Year.java	26
+CaretPosition	2015-05-06-18-57-51	Year.java	26
+CaretPosition	2015-05-06-18-57-53	Year.java	26
+CaretPosition	2015-05-06-18-57-54	Year.java	26
+FileChange	2015-05-06-18-57-55	C:\mooctest\projects\88\2878\Nextday\src\Year.java	[ChangeDelta, position: 25, lines: [				&& (((currentPos % 4 == 0) && (currentPos % 100 != 0)) ))] to [				&& (((currentPos % 4 == 0) && (currentPos % 100 != 0)) )]]	
+CaretPosition	2015-05-06-18-57-57	Year.java	26
+CaretPosition	2015-05-06-18-57-59	Year.java	26
+CaretPosition	2015-05-06-18-57-59	Year.java	26
+FileChange	2015-05-06-18-58-00	C:\mooctest\projects\88\2878\Nextday\src\Year.java	[ChangeDelta, position: 25, lines: [				&& (((currentPos % 4 == 0) && (currentPos % 100 != 0)) )] to [				&& ((currentPos % 4 == 0) && (currentPos % 100 != 0)) )]]	
+CaretPosition	2015-05-06-18-58-01	Year.java	27
+CaretPosition	2015-05-06-18-58-02	Year.java	26
+CaretPosition	2015-05-06-18-58-04	Year.java	26
+CaretPosition	2015-05-06-18-58-05	Year.java	26
+CaretPosition	2015-05-06-18-58-06	Year.java	26
+CaretPosition	2015-05-06-18-58-08	Year.java	26
+CaretPosition	2015-05-06-18-58-09	Year.java	26
+FileChange	2015-05-06-18-58-10	C:\mooctest\projects\88\2878\Nextday\src\Year.java	[ChangeDelta, position: 25, lines: [				&& ((currentPos % 4 == 0) && (currentPos % 100 != 0)) )] to [				&& ( (currentPos % 4 == 0) && (currentPos % 100 != 0)) ]]	
+CaretPosition	2015-05-06-18-58-17	Year.java	26
+CaretPosition	2015-05-06-18-58-17	Year.java	26
+CaretPosition	2015-05-06-18-58-22	Year.java	26
+CaretPosition	2015-05-06-18-58-24	Year.java	26
+CaretPosition	2015-05-06-18-58-25	Year.java	27
+CaretPosition	2015-05-06-18-58-26	Year.java	27
+FileChange	2015-05-06-18-58-26	C:\mooctest\projects\88\2878\Nextday\src\Year.java	[ChangeDelta, position: 25, lines: [				&& ( (currentPos % 4 == 0) && (currentPos % 100 != 0)) ] to [				&& ((currentPos % 4 == 0) && (currentPos % 100 != 0)))]]	
+CaretPosition	2015-05-06-18-58-29	Year.java	25
+CaretPosition	2015-05-06-18-58-30	Year.java	25
+CaretPosition	2015-05-06-18-58-31	Year.java	24
+CaretPosition	2015-05-06-18-58-33	Year.java	25
+CaretPosition	2015-05-06-18-58-34	Year.java	27
+CaretPosition	2015-05-06-18-58-35	Year.java	25
+CaretPosition	2015-05-06-18-58-35	Year.java	27
+CaretPosition	2015-05-06-18-58-36	Year.java	25
+CaretPosition	2015-05-06-18-58-53	Year.java	28
+CaretPosition	2015-05-06-18-58-54	Year.java	28
+CaretPosition	2015-05-06-18-58-57	Year.java	25
+CaretPosition	2015-05-06-18-58-59	Year.java	30
+CaretPosition	2015-05-06-18-59-17	Year.java	25
+CaretPosition	2015-05-06-18-59-18	Year.java	27
+CaretPosition	2015-05-06-18-59-21	Year.java	26
+CaretPosition	2015-05-06-18-59-22	Year.java	26
+CaretPosition	2015-05-06-18-59-24	Year.java	26
+CaretPosition	2015-05-06-18-59-32	Year.java	26
+CaretPosition	2015-05-06-18-59-35	Year.java	26
+CaretPosition	2015-05-06-18-59-36	Year.java	26
+CaretPosition	2015-05-06-18-59-38	Year.java	26
+CaretPosition	2015-05-06-18-59-53	Year.java	26
+CaretPosition	2015-05-06-18-59-56	Year.java	26
+CaretPosition	2015-05-06-18-59-57	Year.java	26
+CaretPosition	2015-05-06-18-59-59	Year.java	26
+CaretPosition	2015-05-06-19-00-01	Year.java	26
+CaretPosition	2015-05-06-19-00-02	Year.java	26
+CaretPosition	2015-05-06-19-00-03	Year.java	26
+CaretPosition	2015-05-06-19-00-19	Year.java	27
+FileChange	2015-05-06-19-00-20	C:\mooctest\projects\88\2878\Nextday\src\Year.java	[ChangeDelta, position: 25, lines: [				&& ((currentPos % 4 == 0) && (currentPos % 100 != 0)))] to [				&& ((currentPos % 4 == 0) && (currentPos % 100 != 0)), 				|| currentPos % 400 == 0)]]	
+CaretPosition	2015-05-06-19-00-22	Year.java	24
+CaretPosition	2015-05-06-19-00-23	Year.java	25
+Part	2015-05-06-19-00-27	Year.java	deactivated
+Part	2015-05-06-19-00-27	JUnit (Finished after 0.047 seconds)	activated
+Part	2015-05-06-19-00-27	JUnit (Finished after 0.047 seconds)	deactivated
+CaretPosition	2015-05-06-19-00-27	Year.java	25
+CaretPosition	2015-05-06-19-00-27	Year.java	26
+Part	2015-05-06-19-00-27	Year.java	activated
+Part	2015-05-06-19-00-27	Package Explorer	broughtToTop
+Part	2015-05-06-19-00-27	Year.java	deactivated
+Part	2015-05-06-19-00-27	Package Explorer	activated
+Part	2015-05-06-19-00-28	Package Explorer	deactivated
+CaretPosition	2015-05-06-19-00-28	Year.java	26
+CaretPosition	2015-05-06-19-00-28	Year.java	26
+Part	2015-05-06-19-00-28	Year.java	activated
+CaretPosition	2015-05-06-19-00-29	Year.java	27
+CaretPosition	2015-05-06-19-00-36	Year.java	26
+CaretPosition	2015-05-06-19-00-37	Year.java	29
+CaretPosition	2015-05-06-19-00-38	Year.java	27
+CaretPosition	2015-05-06-19-00-42	Year.java	22
+CaretPosition	2015-05-06-19-00-43	Year.java	22
+CaretPosition	2015-05-06-19-00-45	Year.java	23
+FileChange	2015-05-06-19-00-45	C:\mooctest\projects\88\2878\Nextday\src\Year.java	[ChangeDelta, position: 21, lines: [	}] to [	}/]]	
+CaretPosition	2015-05-06-19-00-46	Year.java	22
+CaretPosition	2015-05-06-19-00-49	Year.java	22
+FileChange	2015-05-06-19-00-49	C:\mooctest\projects\88\2878\Nextday\src\Year.java	[ChangeDelta, position: 21, lines: [	}/] to [	}]]	
+Part	2015-05-06-19-00-51	Year.java	deactivated
+Part	2015-05-06-19-00-51	Package Explorer	activated
+Part	2015-05-06-19-00-55	Package Explorer	deactivated
+Part	2015-05-06-19-00-55	JUnit (TestNextDay)	broughtToTop
+Part	2015-05-06-19-00-55	JUnit (TestNextDay)	activated
+Part	2015-05-06-19-01-03	JUnit (Finished after 0.047 seconds)	deactivated
+Part	2015-05-06-19-01-03	MoocTest	activated
+Part	2015-05-06-19-01-07	MoocTest	deactivated
+CaretPosition	2015-05-06-19-01-07	Year.java	22
+Part	2015-05-06-19-01-07	Year.java	activated
+CaretPosition	2015-05-06-19-01-08	Year.java	27
+CaretPosition	2015-05-06-19-01-11	Year.java	25
